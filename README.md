@@ -1218,7 +1218,7 @@ You can also deploy to your own infrastructure:
 
 *Empowering sustainable agriculture, one farm at a time* 🌾✨
 
----
+---Made with ❤️ by Mwaki Denis
 
 ### 🌟 Project Stats
 
@@ -1232,5 +1232,5 @@ You can also deploy to your own infrastructure:
 
 
 </div>
-##
-**Made with ❤️ by Mwaki Denis**
+
+
