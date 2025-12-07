@@ -1202,9 +1202,9 @@ You can also deploy to your own infrastructure:
 
 ## 🌱 Together, Let's Regenerate Agriculture! 🌍
 
-**Made with 💚 by Mwaki Denis, for farmers**
+**Made with 💚 for farmers by Mwaki Denis**
 
-[![Star on GitHub](https://img.shields.io/github/stars/lewiii254/agroregren?style=social)](https://github.com/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
+[![Star on GitHub](https://img.shields.io/github/mwakidenis/AI-Powered-Regenerative-Agriculture-System/stars/?style=social)](https://github.com/mwakidenis/AI-Powered-Regenerative-Agriculture-System)
 
 ---
 
@@ -1218,7 +1218,8 @@ You can also deploy to your own infrastructure:
 
 *Empowering sustainable agriculture, one farm at a time* 🌾✨
 
----Made with ❤️ by Mwaki Denis
+---Made with ❤️ by Mwaki Denis[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+---
 
 ### 🌟 Project Stats
 
